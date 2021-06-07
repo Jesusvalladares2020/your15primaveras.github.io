@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.input{
+    padding:0% 50%;
+}
+
+.jeje h3{
+    padding:2% 20%;
+
+}
+.img15{
+    width:50px;
+    height:50px;
+    transition: all 1s;
+}
+.img15:hover{
+    width:60px;
+    height:60px; 
+}
+.wiki-top-option{
+    padding:15px 0px;
+    float:right;
+}
+.wiki-top{
+    position: fixed;
+    width:100%;
+    padding:20px;
+    float:right;
+    background:#ffd900;
+}
+.wiki-top a{
+    font-size: 130%;
+    transition:all 1s;
+    color:#000308;
+    text-decoration:none;
+    margin:30px;
+}
+.wiki-top a:hover{
+    padding:10px 30px;
+    color: rgb(2, 87, 61);
+}
+/**/
+.carta-son{
+    min-width:100%;
+}
+.carta-son img{
+    padding:1% 0px;
+    width:15%;
+    height:15%;
+    transition:all 1s;
+    float: left;
+    border-radius:50%;
+}
+.carta-son img:hover{
+    width:20%;
+    height:20%;
+    border-radius: 0px;
+}
+.texto{
+    width:100%;
+    text-align:center;
+    padding:2% 12%;
+    font-size: 140%;
+
+}
+.padre-pie{
+    font-size: 100%;
+    background:rgb(255, 162, 0);
+    padding:3%;
+}
+

@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.img15{
+    width:50px;
+    height:50px;
+    transition: all 1s;
+}
+.img15:hover{
+    width:60px;
+    height:60px; 
+}
+.wiki-top-option{
+    padding:15px 0px;
+    float:right;
+}
+.wiki-top{
+    position: fixed;
+    width:100%;
+    padding:20px;
+    float:right;
+    background:#ffd900;
+}
+.wiki-top a{
+    font-size: 130%;
+    transition:all 1s;
+    color:#000308;
+    text-decoration:none;
+    margin:30px;
+}
+.wiki-top a:hover{
+    padding:10px 30px;
+    color: rgb(2, 87, 61);
+}
+/*Borrar despues*/
+.foto-head img{
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+.foto-head-son h1{
+    padding:5px;
+}
+.foto-head-son h2{
+    padding:10px;
+}
+.bottom a{
+    transition: all 2s;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding:1% 4%;
+    background:rgb(255, 230, 5);
+    font-size:20px;
+}
+.bottom a:hover{
+    background:rgb(11, 153, 189);
+    padding:1% 7%;
+}
+/*wdwdwdw*/
+.container{
+    padding:20% 0px;
+}
+.container-son h2{
+    float:left;
+    font-size:20px;
+    width:50%;
+    text-align:center;
+    margin:1%;
+}
+.container-son h1{
+    text-align:center;
+    padding:0px 4%;
+}
+.container-son{
+    padding:3%;
+}
+/**/
+.padre-pie{
+    font-size: 120%;
+    background:rgb(255, 162, 0);
+    padding:3%;
+}

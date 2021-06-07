@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+.img15{
+    width:50px;
+    height:50px;
+    transition: all 1s;
+}
+.img15:hover{
+    width:60px;
+    height:60px; 
+}
+.wiki-top-option{
+    padding:15px 0px;
+    float:right;
+}
+.wiki-top{
+    position: fixed;
+    width:100%;
+    padding:20px;
+    float:right;
+    background:#ffd900;
+}
+.wiki-top a{
+    font-size: 130%;
+    transition:all 1s;
+    color:#000308;
+    text-decoration:none;
+    margin:30px;
+}
+.wiki-top a:hover{
+    padding:10px 30px;
+    color: rgb(2, 87, 61);
+}
